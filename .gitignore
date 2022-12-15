@@ -1,0 +1,5 @@
+.idea/
+.cashe/
+dist/
+node_modules/
+*.json
